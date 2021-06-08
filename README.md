@@ -3,7 +3,7 @@
 
 Performs a "git add ." followed by a "git commit -m".
 
-It works with this three values:
+It works with these three values:
 1. Title of the commit
 2. What are you changing with this commit
 3. Why are you changing this
@@ -13,7 +13,7 @@ It works with this three values:
 
 _________________
 ### Command line arguments support will be added in the future.
-Current funcionality for it is poor implemented.
+Current funcionality for it is poorly implemented.
 
 _________________
 The "git commit" command for this project was perfomed using this tool.
